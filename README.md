@@ -44,10 +44,6 @@ pip install -r requirements.txt
 
 4. Preencha os campos `DISCORD_TOKEN` e `GEMINI_TOKEN` no arquivo `.env` com seus tokens
 
-```dosini
-TOKEN=
-```
-
 
 ## Como usar
 
