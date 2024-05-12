@@ -13,7 +13,7 @@ Bot para o discord feito para auxiliar jogatinas de RPG de mesa
 * [Google Gemini](https://ai.google/discover/generativeai)
 * [SpeechRecognition](https://github.com/Uberi/speech_recognition)
 
-![](/examples/Otium commands.jpg)
+![Print do bot no Discord](examples/otium_commands.jpg)
 
 ## Instalação
 
