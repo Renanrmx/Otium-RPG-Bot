@@ -65,4 +65,4 @@ python src/bot.py
 5. Enquanto o assistente estiver ativo no canal de voz pode falar o comando de voz `"ativar assistente público"` ou `"... privado"` para usar a IA por voz, no público ele responde no canal de texto e no privado ele manda uma DM para quem falar, esse recurso é para que o mestre gere conteúdos que os jogados não podem saber, enquanto isso as transcrições ficam desabilitadas até que fale o comando `"desativar assistente"`
 
 
-Utilizado o código para STT do [jakobowsky](https://github.com/jonathan-ndcg/DiscordSTT)
+Utilizado o código para STT do [DiscordSTT](https://github.com/jonathan-ndcg/DiscordSTT)
